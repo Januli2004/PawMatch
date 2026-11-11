@@ -6,7 +6,7 @@ Choosing a pet is a big decision, yet many people decide based on looks or impul
 <p align="center">
   <img src="pawmatch_project_illustration.png" alt="PawMatch logo" width="500">
 </p>
-## Background
+## **Background**
 
 PawMatch solves the problem of people choosing pets that don’t fit their lifestyle, health, budget, or living space. It reduces stressed owners, neglected animals, and pets being abandoned or given up.
 This is a very common. Many people adopt pets on impulse, and shelters worldwide regularly receive animals surrendered because of cost, lack of space, allergies, or time. Almost every first-time owner faces this uncertainty.
