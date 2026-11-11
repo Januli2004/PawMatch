@@ -3,7 +3,8 @@
 PawMatch is an AI-powered pet recommendation system that matches people with the most suitable pet based on their hobbies, health conditions, stress levels, income, and living conditions. It filters out unsuitable options, ranks the best matches, and in future will learn from feedback and monitor pet health.
 ## Description
 Choosing a pet is a big decision, yet many people decide based on looks or impulse, without considering whether the animal fits their daily life. This often leads to stressed owners, unhappy animals, and pets being given up. PawMatch is an AI-powered pet recommendation system that helps people find the most suitable pet based on their hobbies, health conditions, stress levels, income, and living environment. It encourages responsible ownership by considering affordability, space, and animal welfare, and in future it will learn from user feedback and grow into a pet care companion that monitors pet health. PawMatch aims to create happier homes for both people and pets.
-
+ ![PawMatch logo](<img width="2720" height="1600" alt="pawmatch_project_illustration" src="https://github.com/user-attachments/assets/940c27b1-c94e-4c6b-aa02-fa6fbc6547e9" />
+)
 ## Background
 
 PawMatch solves the problem of people choosing pets that don’t fit their lifestyle, health, budget, or living space. It reduces stressed owners, neglected animals, and pets being abandoned or given up.
