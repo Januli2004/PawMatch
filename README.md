@@ -1,4 +1,4 @@
-## PawMatch
+# PawMatch
 ## Summary
 PawMatch is an AI-powered pet recommendation system that matches people with the most suitable pet based on their hobbies, health conditions, stress levels, income, and living conditions. It filters out unsuitable options, ranks the best matches, and in future will learn from feedback and monitor pet health.
 ## Description
