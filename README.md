@@ -29,7 +29,10 @@ The user receives a ranked list of the top three pets, each with a short explana
 
 Learning over time
 After adoption, users can give feedback on how well the pet suited them. PawMatch uses this feedback to adjust its scoring weights and improve future recommendations. In later versions, it can also track a pet’s weight, activity, and vet visits to monitor its health.
+
 ## Challenges
+PawMatch’s main challenges are collecting accurate pet data and choosing fair scoring weights, since every person and animal is different. Health conditions need careful handling, because the system should advise rather than diagnose. It also needs enough user feedback to improve over time, and must protect personal information such as health details.
+## Future Developments
 PawMatch will grow into a pet health companion. A mobile app and smart collar sensors will track weight, activity, and body temperature, storing the data in a cloud database such as Firebase. Machine learning models in Python (scikit-learn) will learn each pet’s normal pattern and send push alerts when something looks unusual, suggesting a vet visit.
 ## Acknowledgments
 I would like to thank Claude, an AI assistant by Anthropic, for its writing support in structuring and refining this project.
