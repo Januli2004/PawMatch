@@ -1,25 +1,29 @@
-PawMatch🐾
-## Summary- 
+## PawMatch🐾
+## Summary
 PawMatch is an AI-powered pet recommendation system that matches people with the most suitable pet based on their hobbies, health conditions, stress levels, income, and living conditions. It filters out unsuitable options, ranks the best matches, and in future will learn from feedback and monitor pet health.
 ## Description
-Choosing a pet is a big decision, yet many people pick one based on appearance or impulse, without thinking about whether it fits their daily life. This often leads to stressed owners, unhappy animals, and pets given up later. PawMatch solves this by recommending the most suitable pet for each individual.
-
-The user answers a short questionnaire covering their hobbies, travel habits, health conditions, stress levels, monthly income, free time, and living environment, such as an urban apartment or a suburban home with a large garden. PawMatch then works in two stages. First, it applies hard rules to remove pets that cannot work. For example, large animals are removed for apartment dwellers, and furry or high-shedding pets are removed for people with breathing problems. Second, it scores the remaining options by comparing the person’s profile with each pet’s needs for space, activity, cost, and care. A frequent traveller might be matched with a travel-friendly dog breed, while someone with a quieter lifestyle might be matched with a cat or a pair of lovebirds.
-
-The result is a ranked list of recommendations, each with a short explanation of why it fits. PawMatch also encourages responsible ownership by considering affordability, available space, and the animal’s welfare, and by advising users with health concerns to consult a doctor.
-
-In future versions, PawMatch will learn from user feedback to improve its suggestions. It can also grow into a pet care companion that tracks a pet’s health, such as weight, activity, and vet visits, and alerts the owner to unusual changes in time.
-
-PawMatch aims to create happier homes for both people and pets.
+Choosing a pet is a big decision, yet many people decide based on looks or impulse, without considering whether the animal fits their daily life. This often leads to stressed owners, unhappy animals, and pets being given up. PawMatch is an AI-powered pet recommendation system that helps people find the most suitable pet based on their hobbies, health conditions, stress levels, income, and living environment. It encourages responsible ownership by considering affordability, space, and animal welfare, and in future it will learn from user feedback and grow into a pet care companion that monitors pet health. PawMatch aims to create happier homes for both people and pets.
 
 ## Background
 
-Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
-
-This is how you make a list, if you need one:
-* problem 1
-* problem 2
-* etc.
+PawMatch solves the problem of people choosing pets that don’t fit their lifestyle, health, budget, or living space. It reduces stressed owners, neglected animals, and pets being abandoned or given up.
+This is a very common. Many people adopt pets on impulse, and shelters worldwide regularly receive animals surrendered because of cost, lack of space, allergies, or time. Almost every first-time owner faces this uncertainty.
+I love animals and have seen how a poor match can cause stress for both owner and pet. I want to use AI to make pet adoption a smarter, more informed everyday decision. That is why I get motivated about this issue and trying to give practical AI based solution to every pet lovers. It combines AI with animal welfare and everyday life. Better matches mean happier homes, fewer abandoned pets, and healthier owners, and the idea can grow into pet health monitoring.
 
 
 ## How is it used?
+PawMatch works in four simple steps.
+
+1. Collecting user information
+The user fills in a short questionnaire about their hobbies and travel habits, health conditions (such as allergies or breathing problems), stress level, monthly income, free time per day, and living conditions, such as an apartment or a house with a garden.
+
+2. Filtering out unsuitable pets
+PawMatch first applies hard rules to remove pets that cannot work. For example, large animals and cows are removed for city apartments, furry or high-shedding pets are removed for people with breathing conditions, and expensive pets are removed for low budgets.
+
+3. Scoring the remaining pets
+Each remaining pet is compared with the user’s profile and given a match score. The score looks at how well the pet’s needs for space, activity, cost, and care fit the person’s lifestyle. More important factors, such as living space, carry more weight. For example, a frequent traveller scores higher with a travel-friendly dog breed, while a person with a quiet lifestyle scores higher with a cat or lovebirds.
+4. Showing the results
+The user receives a ranked list of the top three pets, each with a short explanation of why it was recommended. Health-related results also include a reminder to consult a doctor.
+
+Learning over time
+After adoption, users can give feedback on how well the pet suited them. PawMatch uses this feedback to adjust its scoring weights and improve future recommendations. In later versions, it can also track a pet’s weight, activity, and vet visits to monitor its health.
