@@ -2,15 +2,15 @@
 ## Summary
 PawMatch is an AI-powered pet recommendation system that matches people with the most suitable pet based on their hobbies, health conditions, stress levels, income, and living conditions. It filters out unsuitable options, ranks the best matches, and in future will learn from feedback and monitor pet health.
 ## Description
-Choosing a pet is a big decision, yet many people decide based on looks or impulse, without considering whether the animal fits their daily life. This often leads to stressed owners, unhappy animals, and pets being given up. PawMatch is an AI-powered pet recommendation system that helps people find the most suitable pet based on their hobbies, health conditions, stress levels, income, and living environment. It encourages responsible ownership by considering affordability, space, and animal welfare, and in future it will learn from user feedback and grow into a pet care companion that monitors pet health. PawMatch aims to create happier homes for both people and pets.
+Choosing a pet is a big decision, yet many people decide based on looks or impulse, without considering whether the animal fits their daily life. This often leads to stressed owners, unhappy animals, and pets being given up. PawMatch is an AI-powered pet recommendation system that helps people find the most suitable pet according to their circumstances. It encourages responsible ownership by considering affordability, space, and animal welfare, and in future it will learn from user feedback and grow into a pet care companion that monitors pet health. PawMatch aims to create happier homes for both people and pets.
 <p align="center">
   <img src="pawmatch_project_illustration.png" alt="PawMatch logo" width="500">
 </p>
 
 ## Background
 PawMatch solves the problem of people choosing pets that don’t fit their lifestyle, health, budget, or living space. It reduces stressed owners, neglected animals, and pets being abandoned or given up.
-This is a very common. Many people adopt pets on impulse, and shelters worldwide regularly receive animals surrendered because of cost, lack of space, allergies, or time. Almost every first-time owner faces this uncertainty.
-I love animals and have seen how a poor match can cause stress for both owner and pet. I want to use AI to make pet adoption a smarter, more informed everyday decision. That is why I get motivated about this issue and trying to give practical AI based solution to every pet lovers. It combines AI with animal welfare and everyday life. Better matches mean happier homes, fewer abandoned pets, and healthier owners, and the idea can grow into pet health monitoring.
+Many people adopt pets on impulse, and shelters worldwide regularly receive animals surrendered because of cost, lack of space, allergies, or time. Almost every first time owner faces this uncertainty.
+I love animals and have seen how a poor match can cause stress for both owner and pet. I want to use AI to make pet adoption a smarter, more informed everyday decision. That is why I get motivated about this issue and trying to give practical AI based solution to every pet lover. It combines AI with animal welfare and everyday life. Better matches mean happier homes, fewer abandoned pets, and healthier owners.
 
 
 ## How is it used?
